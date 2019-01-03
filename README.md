@@ -21,12 +21,75 @@ Once we have covered the basics through the ISL book, the followup textbook is [
 * [Kaggle](https://www.kaggle.com/)
 * [DataCamp](https://www.datacamp.com/home)
 * [DataQuest](https://www.dataquest.io/dashboard)
+	* [Advanced Jupyter Notebooks Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+	* [18 Places to Find Data Sets for Data Science Projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
 * [Khan Academy](https://www.khanacademy.org/) (for Statistics/Probability/Linear Algebra)
+* [r/DataScience](https://www.reddit.com/r/datascience)
+* [r/Data]
 * Helpful Udemy Courses:
 	* [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 	* Honestly, anything by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
 
+## Helpful Sites for Finding Data
 
+* [Kaggle](https://www.kaggle.com/)
+* [r/DataSets](https://www.reddit.com/r/datasets)
+* [Data.gov](https://www.data.gov/)
+
+## Scope 
+
+In order to fully comprehend what is going on with these Machine Learning Models, there are a few topics we are going to have to skim before we start jumping into how the algorithms work. According to map below, from [Swami Chandrasekaran](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/), Data Science/Machine Learning has a lot of dependencies.
+
+![](Images/DS_Learning_Path.png)
+
+## Study Plan (will change)
+
+1. Fundamentals
+	* Theta join
+	* CAP Theorem
+	* Sharding
+	* Multidimensional Data Model
+	* NoSQL
+	* Regular Expression
+	* Reporting vs. BI vs. Analytics
+2. Probability and Statistics
+	* Probability theory
+	* Bayes Theorem
+	* CDF
+	* Cont. Dist.
+	* Skewness
+	* ANOVA
+	* Prob Den Fn
+	* Central Limit Theorem
+	* Monte Carlo
+	* Hypothesis Testing
+	* p-Value 
+	* chi^2
+	* Estimation
+	* Confidence Interval 
+	* MLE
+	* Kernel Density Estimate (KDE)
+	* Regression
+	* Covariance
+	* Correlation
+	* Pearson Coeff
+	* Causation
+	* Least Square Fit
+	* Euclidian Fit
+3. Programming
+	* Rapid miner
+	* IBM SPSS
+	* Factor Analysis 
+	* Python Libraries
+		* Numpy, pandas, scikit-learn, seaborn, matplotlib, ...
+	* R Libraries
+		* Ggplot2, shiny, tidyr, ..
+4. Big Data
+	* Hadoop
+	* Kafka
+	* Spark
+	* HDFS
+	* MapReduce
 
 
 #### References
