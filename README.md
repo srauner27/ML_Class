@@ -8,13 +8,28 @@ Once we have covered the basics through the ISL book, the followup textbook is [
 ## Required Downloads
 
 * [Python 3](https://python.org/)
-	* [Anaconda Distribution (includes most libraries we need)](https://www.anaconda.com/download/#macos)
+	* [Anaconda Distribution](https://www.anaconda.com/download/#macos) (includes most libraries we need)
 * [R (Language)](https://www.r-project.org/)
 * [R Studio](https://www.rstudio.com/products/rstudio/download/)
-* [Jupyter Notebooks (included in Anaconda)](https://jupyter.org/)
+* [Jupyter Notebooks](https://jupyter.org/) (included in Anaconda)
 * [Git](https://git-scm.com/)
+* [SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
+* [SQL Data Modeler](https://www.oracle.com/technetwork/developer-tools/datamodeler/downloads/datamodeler-087275.html)
 
-## References
+## Helpful Sites for Practice/Learning
+
+* [Kaggle](https://www.kaggle.com/)
+* [DataCamp](https://www.datacamp.com/home)
+* [DataQuest](https://www.dataquest.io/dashboard)
+* [Khan Academy](https://www.khanacademy.org/) (for Statistics/Probability/Linear Algebra)
+* Helpful Udemy Courses:
+	* [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
+	* Honestly, anything by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
+
+
+
+
+#### References
 
 James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). An Introduction to Statistical Learning with Applications in R, Springer Science+Business Media, New York. http://www-bcf.usc.edu/~gareth/ISL/index.html
 
