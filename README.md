@@ -25,10 +25,9 @@ Once we have covered the basics through the ISL book, the followup textbook is [
 	* [18 Places to Find Data Sets for Data Science Projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
 * [Khan Academy](https://www.khanacademy.org/) (for Statistics/Probability/Linear Algebra)
 * [r/DataScience](https://www.reddit.com/r/datascience)
-* [r/Data]
 * Helpful Udemy Courses:
 	* [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
-	* Honestly, anything by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
+	* Anything by [Jose Portilla](https://www.udemy.com/user/joseportilla/) is worth your time
 
 ## Helpful Sites for Finding Data
 
@@ -38,7 +37,7 @@ Once we have covered the basics through the ISL book, the followup textbook is [
 
 ## Scope 
 
-In order to fully comprehend what is going on with these Machine Learning Models, there are a few topics we are going to have to skim before we start jumping into how the algorithms work. According to map below, from [Swami Chandrasekaran](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/), Data Science/Machine Learning has a lot of dependencies.
+In order to fully comprehend what is going on with these Machine Learning Models, there are a few topics we are going to have to skim before we start jumping into how the algorithms work. According to map below, from [Swami Chandrasekaran](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/), Data Science/Machine Learning has a lot of dependencies:
 
 ![](Images/DS_Learning_Path.png)
 
